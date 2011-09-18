@@ -1,0 +1,18 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Developer: Herman Schutte
+  Site: http://hermanschutte.com
+  Twitter: @hermanschutte
+  Location: South Africa
+
+/* THANKS */
+  http://html5boilerplate.com/
+  http://twitter.github.com/bootstrap/
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, Bootstrap from Twitter
+  Software: TextMate, Photoshop
