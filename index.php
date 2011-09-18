@@ -58,7 +58,7 @@
                         </ul>
                         <ul class="nav secondary-nav">
                             <li>
-                                <a href="http://github.com">Fork This</a>
+                                <a href="https://github.com/hermanschutte/locationgram">Fork This</a>
                             </li>
                         </ul>
                     </div>
