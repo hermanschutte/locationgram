@@ -1,6 +1,6 @@
 # Locationgram
 
-A small web app that allows you to see Instagram photos from people around you on a map. Zoom in and out, and all around to see more photos. The app is located at <http://locationgram.com>
+A small web app that allows you to see Instagram photos from people around you on a map. Zoom in and out, and all around to see more photos. The app is located at <http://locationgram.phpfogapp.com>
 
 ## Run this locally
 
